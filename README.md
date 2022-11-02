@@ -1,2 +1,2 @@
-# svetlana-it.github.io
+# svetlana-it
 Первые работы в верстке
